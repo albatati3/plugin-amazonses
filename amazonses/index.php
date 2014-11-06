@@ -3,7 +3,7 @@
 Plugin Name: Amazon SES
 Plugin URI: http://www.osclass.org/
 Description: Amazon SES Plugin
-Version: 1.0
+Version: 1.0.0
 Author: OSClass
 Author URI: http://www.osclass.org/
 Short Name: amazonses
